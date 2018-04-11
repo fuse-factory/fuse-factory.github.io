@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Fuse-factory 저장소
 
-You can use the [editor on GitHub](https://github.com/fuse-factory/fuse-factory.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[한글 번역 문서 보기](docs/)
 
 ### Markdown
 
